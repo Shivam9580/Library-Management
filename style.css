@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+    text-decoration: none;
+    color: white;
+    height: 35px;
+    width: 100%;
+    background:#f45511;
+   line-height: 35px;
+   padding: 0px 20px 9px 100px;
+   box-sizing: border-box;
+    word-spacing:10px ;
+
+}
+.nav-bar {
+
+    height: 60px;
+    width: 100%;
+    background-color: rgb(243, 198, 66);
+    justify-content: center;
+    color: #fff;
+    position: sticky;
+    box-shadow: #0e0c0c;
+    display: flex;
+    padding-left: 400px;
+}
+.logo{
+    padding-left: 20px;
+
+
+}
