@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0px;
     padding: 0px;
@@ -13,10 +14,18 @@
 }
 
 .top {
+=======
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+>>>>>>> 681c54491690a945a6aa0f1397f50f0158134471
     text-decoration: none;
     color: white;
     height: 35px;
     width: 100%;
+<<<<<<< HEAD
     background: #f45511;
     line-height: 35px;
     padding: 0px 20px 9px 100px;
@@ -59,4 +68,29 @@
 .content h1 {
     padding-top: 200px;
     font-size: 40px;
+=======
+    background:#f45511;
+   line-height: 35px;
+   padding: 0px 20px 9px 100px;
+   box-sizing: border-box;
+    word-spacing:10px ;
+
+}
+.nav-bar {
+
+    height: 60px;
+    width: 100%;
+    background-color: rgb(243, 198, 66);
+    justify-content: center;
+    color: #fff;
+    position: sticky;
+    box-shadow: #0e0c0c;
+    display: flex;
+    padding-left: 400px;
+}
+.logo{
+    padding-left: 20px;
+
+
+>>>>>>> 681c54491690a945a6aa0f1397f50f0158134471
 }
